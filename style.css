@@ -20,7 +20,6 @@ html, body{
     padding: 8%;
 }
 .padding_profile{
-	padding-bottom: 3%;
     padding: 8%;
 }
 .padding2{
@@ -68,6 +67,7 @@ html, body{
 }
 .shape_signup{
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     height: 1000px;
     width: 450px;
@@ -78,6 +78,7 @@ html, body{
 .shape_profile{
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     height: 700px;
     width: 550px;
     background: #1f1f1f;
@@ -146,7 +147,7 @@ div.example2 img {
 }
 .flex{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 .flexa{
@@ -172,6 +173,10 @@ div.example2 img {
 .flex > #div2 {
     padding: 20px;
 }
+.flex > #div22 {
+    padding: 20px;
+    padding-right: 0px;
+}
 .margin_aboutus{
     margin:20px;
 }
@@ -194,6 +199,14 @@ div.example2 img {
 .flex_logo{
     display: flex;
     background-color: #1b1b1b;
+    justify-content: center;
+}
+.gallery{
+    background-color: #1b1b1b;
+    height: 550px;
+}
+.flex_gallery{
+    display: flex;
     justify-content: center;
 }
 .flex_logo > #div1{

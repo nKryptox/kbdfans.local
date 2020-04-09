@@ -30,7 +30,7 @@
         <ul class="main-nav">
             <li><a href="index.php">Главная</a></li>
             <li><a href="About_us.php">О нас</a></li>
-            <li><a href="#">Портфолио</a></li>
+            <li><a href="portfolio.php">Портфолио</a></li>
             <li><a href="products.php">Магазин</a></li>
             <li>
                 <?php

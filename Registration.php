@@ -28,12 +28,12 @@
             <ul class="main-nav">
                 <li><a href="index.php">Главная</a></li>
                 <li><a href="About_us.php">О нас</a></li>
-                <li><a href="#">Портфолио</a></li>
+                <li><a href="portfolio.php">Портфолио</a></li>
                 <li><a href="products.php">Магазин</a></li>
                 <li><a href="login.php">Вход</a></li>
             </ul>
         </header>   
-		</font></font>
+		</font></font></font></font></font></font>
 		<div class="padding_profile">
 			<div class="flex">
             	<div class="shape_signup">
